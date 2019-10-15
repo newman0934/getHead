@@ -2,7 +2,7 @@
 debug小工作，Q1與Q2合併版
 
 ## Installation
-- git clone 
+- git clone https://github.com/newman0934/getHead.git
 - cd到該資料夾
 - 輸入npm install 安裝插件
 - 輸入node app.js
